@@ -16,6 +16,7 @@
 		4320241A243CB5B8003A29A1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 43202418243CB5B8003A29A1 /* Main.storyboard */; };
 		4320241C243CB5BA003A29A1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4320241B243CB5BA003A29A1 /* Assets.xcassets */; };
 		4320241F243CB5BA003A29A1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4320241D243CB5BA003A29A1 /* LaunchScreen.storyboard */; };
+		434A047424E13A8F0088B1A9 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 434A047324E13A8F0088B1A9 /* .gitignore */; };
 		6F5E2EC2F150262613257175 /* Pods_table.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6E15BDA3AA092930580981E1 /* Pods_table.framework */; };
 /* End PBXBuildFile section */
 
@@ -32,6 +33,7 @@
 		4320241B243CB5BA003A29A1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4320241E243CB5BA003A29A1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		43202420243CB5BA003A29A1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		434A047324E13A8F0088B1A9 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		6B573C1209F62E236FDD6EEE /* Pods-table.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-table.release.xcconfig"; path = "Target Support Files/Pods-table/Pods-table.release.xcconfig"; sourceTree = "<group>"; };
 		6E15BDA3AA092930580981E1 /* Pods_table.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_table.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -61,6 +63,7 @@
 		43202406243CB5B8003A29A1 = {
 			isa = PBXGroup;
 			children = (
+				434A047324E13A8F0088B1A9 /* .gitignore */,
 				4311E2DF2443736200F9DA72 /* Podfile */,
 				4311E2DD2443733000F9DA72 /* Podfile.xib */,
 				43202411243CB5B8003A29A1 /* table */,
@@ -165,6 +168,7 @@
 				4320241F243CB5BA003A29A1 /* LaunchScreen.storyboard in Resources */,
 				4320241C243CB5BA003A29A1 /* Assets.xcassets in Resources */,
 				4320241A243CB5B8003A29A1 /* Main.storyboard in Resources */,
+				434A047424E13A8F0088B1A9 /* .gitignore in Resources */,
 				4311E2DE2443733000F9DA72 /* Podfile.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
